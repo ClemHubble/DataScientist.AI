@@ -56,7 +56,7 @@ Note: You need to have a Google API Key to connect to Google Gemini Model.
 
 # Contributing
 To contribute to the platform, follow these steps:
-Fork the repository: Fork the repository using git fork https://github.com/your-username/model-training-platform.git.
+Fork the repository: Fork the repository using git fork https://github.com/ClemHubble/DataScientist.AI.git.
 Make changes: Make changes to the code and commit them using git commit -m "your changes".
 Create a pull request: Create a pull request to merge your changes into the main repository.
 
